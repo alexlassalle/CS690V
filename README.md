@@ -1,4 +1,4 @@
-# CS690V
+# CS690V: Bokeh Examples
 <i>ClassificationDemo.py</i> shows the decision boundary for Decision Tree Classification and K Nearest Neighbor Classification. 
 The points on the plot represent the actual data. 
 <br>Interactions give the user the ability to change hyperparameters of the alogirithms. <br><br>
